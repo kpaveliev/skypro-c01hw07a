@@ -1,0 +1,92 @@
+{
+    "1": {
+        "name": "Рим",
+        "timezone": "GMT+1",
+        "country": 3,
+        "country_ru": "Италия"
+    },
+    "2": {
+        "name": "Милан",
+        "timezone": "GMT+1",
+        "country": 3,
+        "country_ru": "Италия"
+    },
+    "3": {
+        "name": "Венеция",
+        "timezone": "GMT+1",
+        "country": 3,
+        "country_ru": "Италия"
+    },
+    "4": {
+        "name": "Стамбул",
+        "timezone": "GMT+3",
+        "country": 4,
+        "country_ru": "Турция"
+    },
+    "5": {
+        "name": "Кемер",
+        "timezone": "GMT+3",
+        "country": 4,
+        "country_ru": "Турция"
+    },
+    "6": {
+        "name": "Сиде",
+        "timezone": "GMT+3",
+        "country": 4,
+        "country_ru": "Турция"
+    },
+    "7": {
+        "name": "Тбилиси",
+        "timezone": "GMT+4",
+        "country": 2,
+        "country_ru": "Грузия"
+    },
+    "8": {
+        "name": "Казбеги",
+        "timezone": "GMT+4",
+        "country": 2,
+        "country_ru": "Грузия"
+    },
+    "9": {
+        "name": "Хельсинки",
+        "timezone": "GMT+2",
+        "country": 5,
+        "country_ru": "Финляндия"
+    },
+    "10": {
+        "name": "Санкт-Петербург",
+        "timezone": "GMT+3",
+        "country": 1,
+        "country_ru": "Россия"
+    },
+    "11": {
+        "name": "Москва",
+        "timezone": "GMT+3",
+        "country": 1,
+        "country_ru": "Россия"
+    },
+    "12": {
+        "name": "Казань",
+        "timezone": "GMT+3",
+        "country": 1,
+        "country_ru": "Россия"
+    },
+    "13": {
+        "name": "Сочи",
+        "timezone": "GMT+3",
+        "country": 1,
+        "country_ru": "Россия"
+    },
+    "14": {
+        "name": "Псков",
+        "timezone": "GMT+3",
+        "country": 1,
+        "country_ru": "Россия"
+    },
+    "15": {
+        "name": "Нижний Новгород",
+        "timezone": "GMT+3",
+        "country": 1,
+        "country_ru": "Россия"
+    }
+}
